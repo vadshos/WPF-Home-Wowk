@@ -1,0 +1,22 @@
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.exe
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.deps.json
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.runtimeconfig.json
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.runtimeconfig.dev.json
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.dll
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\ref\WPF intro . XAML.dll
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\bin\Debug\net5.0-windows\WPF intro . XAML.pdb
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.csprojAssemblyReference.cache
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML_MarkupCompile.cache
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML_MarkupCompile.lref
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.g.resources
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.AssemblyInfoInputs.cache
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.AssemblyInfo.cs
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.csproj.CoreCompileInputs.cache
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.dll
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\ref\WPF intro . XAML.dll
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.pdb
+C:\Users\proto\source\repos\WPF intro . XAML\WPF intro . XAML\obj\Debug\net5.0-windows\WPF intro . XAML.genruntimeconfig.cache
